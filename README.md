@@ -116,11 +116,11 @@ Admin can view a bar chart of total outward component usage in the last 30 days 
 ## 🖥️ Screenshots
 
 *Add relevant screenshots here (login, dashboard, mobile view, graph, etc.)*
-![Login](<Login page.png>)
-![Dashboard](Dashboard.png)
-![mobile view](<mobile view.png>) 
-![mobile view](<mobile  view.png>)
-![graph](Graph.png)
+![Login](./assets/Login page.png)
+![Dashboard](./assets/Dashboard.png)
+![mobile](./assets/mobile view.png) 
+![mobile](./assets/mobileview.png)
+![graph](./assets/Graph.png)
 ---
 
 ## 📦 Technologies Used
